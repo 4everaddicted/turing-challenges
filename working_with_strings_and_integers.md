@@ -76,7 +76,7 @@ Write code to output both the total characters in all the names together and the
 In our family we like to say "Happy" once for every year of your age when we say "Happy birthday!". So when you turn
 four we'd say "Happy happy happy happy birthday!" Note the capitalization.
 
-Say you have an `age` variable that holds the person's age. Write code to output the appropriate greeting.  **`"#{("Happy " * age).capitalize}birthdayword!"`**
+Say you have an `age` variable that holds the person's age. Write code to output the appropriate greeting.  **`"#{("Happy " * age).capitalize}birthday!"`**
 
 ### String Compression
 
